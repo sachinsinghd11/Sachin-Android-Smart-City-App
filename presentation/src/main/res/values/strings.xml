@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="smart_city_hub">Smart City Hub</string>
+    <string name="settings_icon">settings_icon</string>
+    <string name="information">Information</string>
+    <string name="sunny_day">Sunny Day</string>
+    <string name="sunny">Sunny</string>
+    <string name="aqi">AQI</string>
+    <string name="quick_stats">Quick Stats</string>
+    <string name="_21_c">21°C</string>
+    <string name="miscellaneous_element">Miscellaneous Element</string>
+
+</resources>
