@@ -3,13 +3,13 @@ Smart City App -
 
 Dashboard Screen.
 
-<img width="300" height="200" alt="Screen1" src="https://github.com/user-attachments/assets/3565ca05-11c3-4924-810a-b253f7d53afc" />
+<img width="200" height="300" alt="Screen1" src="https://github.com/user-attachments/assets/3565ca05-11c3-4924-810a-b253f7d53afc" />
 
       
       
 City Alert Detail Screen
                                
-<img width="300" height="200" alt="Screen2" src="https://github.com/user-attachments/assets/e207519e-5053-4550-9235-7fc238cb401b" />
+<img width="200" height="300" alt="Screen2" src="https://github.com/user-attachments/assets/e207519e-5053-4550-9235-7fc238cb401b" />
 
 
 
